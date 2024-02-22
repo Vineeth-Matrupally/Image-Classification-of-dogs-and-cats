@@ -1,6 +1,8 @@
 # Image-Classification-of-dogs-and-cats
 This project utilizes the Cats vs Dogs dataset to classify binary images of cats and dogs. A Convolutional Neural Network (CNN) model was employed as the deep learning model, along with three traditional machine learning models: Decision Tree Classifier, K-Nearest Neighbour Classifier, and SVM Classifier.
 
+Link to the Dataset: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
 ## Motivation
 The CNN model was chosen due to its high effectiveness in classifying images and its widespread usage in the present-day world.
 
